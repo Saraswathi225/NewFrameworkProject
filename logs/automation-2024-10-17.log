@@ -1,0 +1,58 @@
+22:26:07.432 [main] INFO  testCases.TC001_AccountRegistrationTest - ** providing customer details ------
+}22:26:18.311 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating confiramation message ------
+}22:26:22.821 [main] INFO  testCases.TC001_AccountRegistrationTest - Test passed
+}22:26:22.836 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** finished TC001_AccountRegistrationTest execution **********
+}19:32:01.697 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\lenovo\eclipse-workspace\NewFrameworkProject\Master.xml"
+}19:32:03.262 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\eclipse-workspace\NewFrameworkProject\Master.xml
+
+}19:32:19.673 [main] INFO  testCases.TC001_AccountRegistrationTest - **************   Starting TC001_AccountRegistrationTest execution **********
+}19:32:23.468 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Myaccount ***
+}19:32:24.567 [main] INFO  testCases.TC001_AccountRegistrationTest - ** Clicked on Register **
+}19:32:24.585 [main] INFO  testCases.TC001_AccountRegistrationTest - ** providing customer details ------
+}19:32:33.010 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating confiramation message ------
+}19:32:37.300 [main] INFO  testCases.TC001_AccountRegistrationTest - Test passed
+}19:32:37.319 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** finished TC001_AccountRegistrationTest execution **********
+}19:32:46.007 [main] INFO  testCases.TC002_AccountLoginTest - **************   Starting TC002_AccountRegistrationTest execution **********
+}19:32:52.197 [main] INFO  testCases.TC002_AccountLoginTest - *** Verifying My Account is exist or not ****
+}19:32:52.337 [main] INFO  testCases.TC002_AccountLoginTest - ***** finished TC002_AccountRegistrationTest execution **********
+}19:58:07.456 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\lenovo\eclipse-workspace\NewFrameworkProject\Master.xml"
+}19:58:09.932 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\eclipse-workspace\NewFrameworkProject\Master.xml
+
+}19:58:26.671 [main] INFO  testCases.TC001_AccountRegistrationTest - **************   Starting TC001_AccountRegistrationTest execution **********
+}19:58:30.729 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Myaccount ***
+}19:58:32.374 [main] INFO  testCases.TC001_AccountRegistrationTest - ** Clicked on Register **
+}19:58:32.394 [main] INFO  testCases.TC001_AccountRegistrationTest - ** providing customer details ------
+}19:58:43.236 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating confiramation message ------
+}19:58:48.864 [main] INFO  testCases.TC001_AccountRegistrationTest - Test passed
+}19:58:48.888 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** finished TC001_AccountRegistrationTest execution **********
+}19:58:58.004 [main] INFO  testCases.TC002_AccountLoginTest - **************   Starting TC002_AccountRegistrationTest execution **********
+}19:59:05.564 [main] INFO  testCases.TC002_AccountLoginTest - *** Verifying My Account is exist or not ****
+}19:59:05.766 [main] INFO  testCases.TC002_AccountLoginTest - ***** finished TC002_AccountRegistrationTest execution **********
+}19:59:47.151 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\lenovo\eclipse-workspace\NewFrameworkProject\Master.xml"
+}19:59:48.311 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\eclipse-workspace\NewFrameworkProject\Master.xml
+
+}20:05:11.974 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\lenovo\eclipse-workspace\NewFrameworkProject\Master.xml"
+}20:05:13.333 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\eclipse-workspace\NewFrameworkProject\Master.xml
+
+}20:11:17.735 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\lenovo\eclipse-workspace\NewFrameworkProject\Master.xml"
+}20:11:19.354 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\eclipse-workspace\NewFrameworkProject\Master.xml
+
+}20:12:45.940 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\lenovo\eclipse-workspace\NewFrameworkProject\Master.xml"
+}20:12:48.360 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\eclipse-workspace\NewFrameworkProject\Master.xml
+
+}21:04:46.337 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\lenovo\eclipse-workspace\NewFrameworkProject\Master.xml"
+}21:04:48.743 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\eclipse-workspace\NewFrameworkProject\Master.xml
+
+}21:07:49.762 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\lenovo\eclipse-workspace\NewFrameworkProject\Master.xml"
+}21:07:51.058 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\eclipse-workspace\NewFrameworkProject\Master.xml
+
+}21:08:04.181 [main] INFO  testCases.TC001_AccountRegistrationTest - **************   Starting TC001_AccountRegistrationTest execution **********
+}

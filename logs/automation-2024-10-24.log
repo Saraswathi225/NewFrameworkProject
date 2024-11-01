@@ -1,0 +1,46 @@
+21:08:08.056 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Myaccount ***
+}21:08:09.325 [main] INFO  testCases.TC001_AccountRegistrationTest - ** Clicked on Register **
+}21:08:09.339 [main] INFO  testCases.TC001_AccountRegistrationTest - ** providing customer details ------
+}21:08:18.268 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating confiramation message ------
+}21:08:22.510 [main] INFO  testCases.TC001_AccountRegistrationTest - Test passed
+}21:08:22.522 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** finished TC001_AccountRegistrationTest execution **********
+}21:08:34.020 [main] INFO  testCases.TC002_AccountLoginTest - **************   Starting TC002_AccountRegistrationTest execution **********
+}21:08:39.706 [main] INFO  testCases.TC002_AccountLoginTest - *** Verifying My Account is exist or not ****
+}21:08:39.970 [main] INFO  testCases.TC002_AccountLoginTest - ***** finished TC002_AccountRegistrationTest execution **********
+}20:22:36.918 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\lenovo\eclipse-workspace\NewFrameworkProject\Master.xml"
+}20:22:37.368 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\eclipse-workspace\NewFrameworkProject\Master.xml
+
+}20:22:42.234 [main] INFO  testCases.TC001_AccountRegistrationTest - **************   Starting TC001_AccountRegistrationTest execution **********
+}20:22:43.059 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Myaccount ***
+}20:22:43.568 [main] INFO  testCases.TC001_AccountRegistrationTest - ** Clicked on Register **
+}20:22:43.580 [main] INFO  testCases.TC001_AccountRegistrationTest - ** providing customer details ------
+}20:22:49.295 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating confiramation message ------
+}20:22:53.400 [main] INFO  testCases.TC001_AccountRegistrationTest - Test passed
+}20:22:53.412 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** finished TC001_AccountRegistrationTest execution **********
+}20:22:56.743 [main] INFO  testCases.TC002_AccountLoginTest - **************   Starting TC002_AccountRegistrationTest execution **********
+}20:22:58.887 [main] INFO  testCases.TC002_AccountLoginTest - *** Verifying My Account is exist or not ****
+}20:22:58.961 [main] INFO  testCases.TC002_AccountLoginTest - ***** finished TC002_AccountRegistrationTest execution **********
+}21:51:25.689 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\lenovo\eclipse-workspace\NewFrameworkProject\Master.xml"
+}21:53:48.113 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\lenovo\eclipse-workspace\NewFrameworkProject\Master.xml"
+}21:53:52.669 [main] INFO  testCases.TC001_AccountRegistrationTest - **************   Starting TC001_AccountRegistrationTest execution **********
+}21:53:53.515 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Myaccount ***
+}21:53:53.968 [main] INFO  testCases.TC001_AccountRegistrationTest - ** Clicked on Register **
+}21:53:53.973 [main] INFO  testCases.TC001_AccountRegistrationTest - ** providing customer details ------
+}21:53:59.716 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating confiramation message ------
+}21:54:03.793 [main] INFO  testCases.TC001_AccountRegistrationTest - Test passed
+}21:54:03.797 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** finished TC001_AccountRegistrationTest execution **********
+}21:54:06.808 [main] INFO  testCases.TC002_AccountLoginTest - **************   Starting TC002_AccountRegistrationTest execution **********
+}21:54:09.052 [main] INFO  testCases.TC002_AccountLoginTest - *** Verifying My Account is exist or not ****
+}21:54:09.117 [main] INFO  testCases.TC002_AccountLoginTest - ***** finished TC002_AccountRegistrationTest execution **********
+}22:11:45.778 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\lenovo\eclipse-workspace\NewFrameworkProject\Master.xml"
+}22:11:50.897 [main] INFO  testCases.TC001_AccountRegistrationTest - **************   Starting TC001_AccountRegistrationTest execution **********
+}22:11:51.812 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Myaccount ***
+}22:11:52.281 [main] INFO  testCases.TC001_AccountRegistrationTest - ** Clicked on Register **
+}22:11:52.295 [main] INFO  testCases.TC001_AccountRegistrationTest - ** providing customer details ------
+}22:11:57.735 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating confiramation message ------
+}22:12:01.794 [main] INFO  testCases.TC001_AccountRegistrationTest - Test passed
+}22:12:01.796 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** finished TC001_AccountRegistrationTest execution **********
+}22:12:04.683 [main] INFO  testCases.TC002_AccountLoginTest - **************   Starting TC002_AccountRegistrationTest execution **********
+}22:12:06.390 [main] INFO  testCases.TC002_AccountLoginTest - *** Verifying My Account is exist or not ****
+}

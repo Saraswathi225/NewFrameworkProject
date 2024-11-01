@@ -1,0 +1,47 @@
+20:04:39.992 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+}20:04:40.004 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+}20:04:40.005 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+}20:04:40.090 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+}20:04:40.092 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+}20:04:40.094 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+}20:04:40.135 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+}20:04:40.137 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+}20:04:40.140 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+}20:04:40.182 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+}20:04:40.185 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+}20:04:40.187 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+}20:04:40.260 [main] INFO  testCases.TC003_LoginDDT - **************   Starting TC003_AccountRegistrationTest execution **********
+}20:04:43.378 [main] INFO  testCases.TC003_LoginDDT - *** Verifying My Account is exist or not ****
+}20:04:43.934 [main] INFO  testCases.TC003_LoginDDT - ***** finished TC003_AccountRegistrationTest execution **********
+}20:04:43.948 [main] INFO  testCases.TC003_LoginDDT - **************   Starting TC003_AccountRegistrationTest execution **********
+}20:04:44.946 [main] INFO  testCases.TC003_LoginDDT - *** Verifying My Account is exist or not ****
+}20:04:54.965 [main] INFO  testCases.TC003_LoginDDT - ***** finished TC003_AccountRegistrationTest execution **********
+}20:04:54.972 [main] INFO  testCases.TC003_LoginDDT - **************   Starting TC003_AccountRegistrationTest execution **********
+}20:04:56.582 [main] INFO  testCases.TC003_LoginDDT - *** Verifying My Account is exist or not ****
+}20:05:06.672 [main] INFO  testCases.TC003_LoginDDT - ***** finished TC003_AccountRegistrationTest execution **********
+}20:05:06.693 [main] INFO  testCases.TC003_LoginDDT - **************   Starting TC003_AccountRegistrationTest execution **********
+}20:05:07.908 [main] INFO  testCases.TC003_LoginDDT - *** Verifying My Account is exist or not ****
+}20:05:08.612 [main] INFO  testCases.TC003_LoginDDT - ***** finished TC003_AccountRegistrationTest execution **********
+}18:13:26.710 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\lenovo\eclipse-workspace\NewFrameworkProject\Grouping.xml"
+}18:13:27.178 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\eclipse-workspace\NewFrameworkProject\Grouping.xml
+
+}18:13:33.807 [main] INFO  testCases.TC002_AccountLoginTest - **************   Starting TC002_AccountRegistrationTest execution **********
+}18:13:35.808 [main] INFO  testCases.TC002_AccountLoginTest - *** Verifying My Account is exist or not ****
+}18:13:35.870 [main] INFO  testCases.TC002_AccountLoginTest - ***** finished TC002_AccountRegistrationTest execution **********
+}18:14:39.151 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\lenovo\eclipse-workspace\NewFrameworkProject\Grouping.xml"
+}18:14:39.574 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\eclipse-workspace\NewFrameworkProject\Grouping.xml
+
+}18:14:43.162 [main] INFO  testCases.TC001_AccountRegistrationTest - **************   Starting TC001_AccountRegistrationTest execution **********
+}18:14:43.993 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Myaccount ***
+}18:14:44.606 [main] INFO  testCases.TC001_AccountRegistrationTest - ** Clicked on Register **
+}18:14:44.615 [main] INFO  testCases.TC001_AccountRegistrationTest - ** providing customer details ------
+}18:14:50.055 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating confiramation message ------
+}18:14:54.120 [main] INFO  testCases.TC001_AccountRegistrationTest - Test passed
+}18:14:54.123 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** finished TC001_AccountRegistrationTest execution **********
+}18:15:44.415 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\lenovo\eclipse-workspace\NewFrameworkProject\Grouping.xml"
+}18:15:44.821 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\eclipse-workspace\NewFrameworkProject\Grouping.xml
+
+}
